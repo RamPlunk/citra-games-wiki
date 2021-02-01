@@ -1,0 +1,9 @@
+title = "Persona Q2: New Cinema Labyrinth"
+description = "New installation in the Persona Q Series, a spinoff of the Persona Series; developed by ATLUS. A JRPG with dungeon crawling mechanics similar to Etrian Odyssey. Game features animated cutscenes both in engine and compressed video. Full Japanese voice acting is used in most cut scenes and dialogue heavy segments."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001D7100"
+region = "usa"
+release_date = "2019-06-06"
